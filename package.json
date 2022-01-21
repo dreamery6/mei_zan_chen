@@ -41,7 +41,7 @@
     "loader": "2.1.1",
     "loader-builder": "2.1.0",
     "lodash": "4.6.1",
-    "log4js": "^0.6.29",
+    "log4js": "^6.4.0",
     "markdown-it": "6.0.0",
     "md5": "^2.1.0",
     "memory-cache": "0.1.4",
