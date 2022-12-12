@@ -26,7 +26,7 @@
     "ejs-mate": "2.3.0",
     "eventproxy": "0.3.4",
     "excel-export": "^0.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-flash": "0.0.2",
     "express-session": "1.12.1",
     "express-xml-bodyparser": "^0.3.0",
